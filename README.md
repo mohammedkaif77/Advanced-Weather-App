@@ -10,7 +10,7 @@ A stunning 3D interactive weather application featuring a mesmerizing solar syst
 
 ## 🚀 Live Demo
 
-Experience the app live: [https://ajazjamadar.github.io/Advanced-Weather-App/](https://advanced-weather-app-seven.vercel.app/)
+Experience the app live: (https://advanced-weather-app-gyon.vercel.app/)
 
 ## ✨ Features
 
@@ -155,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Ajaz Jamadar**
-- GitHub: [@ajazjamadar](https://github.com/ajazjamadar)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-eajazuddin-jamadar-359810258/)
+**Mohammed kaif**
+- GitHub: (https://github.com/mohammedkaif77)
+- LinkedIn: (https://www.linkedin.com/in/mohammed-kaif12)
 
 ## 🙏 Acknowledgments
 
@@ -178,4 +178,4 @@ Responsive design maintains all functionality on smaller screens.
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ and ☕ by Ajaz Jamadar
+Made with ❤️ and ☕ by Mohammed Kaif

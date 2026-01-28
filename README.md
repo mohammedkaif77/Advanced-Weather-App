@@ -90,7 +90,7 @@ The application is fully responsive and works seamlessly across:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ajazjamadar/Advanced-Weather-App.git
+   https://github.com/mohammedkaif77/Advanced-Weather-App.git
    ```
 
 2. **Navigate to project directory:**

@@ -2,6 +2,7 @@ pipeline {
     agent any
 
     stages {
+
         stage('Checkout') {
             steps {
                 checkout scm
@@ -15,9 +16,9 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Docker Build') {
             steps {
-                echo 'Static website build completed'
+                sh 'docker build -t advanced-weather-app:1.0 .'
             }
         }
     }
